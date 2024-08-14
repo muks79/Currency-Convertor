@@ -4,7 +4,7 @@ This Currency Converter App is a user-friendly web application developed using R
 
 ## Live Demo
 
-Explore the live demo: [Currency Converter App Demo]((https://github.com/muks79/Currency-Convertor.git))
+Explore the live demo: [Currency Converter App Demo](https://currency-convertor-fi9m.onrender.com)
 
 ## Features
 
