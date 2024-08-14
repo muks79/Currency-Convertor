@@ -25,13 +25,13 @@ Explore the live demo: [Currency Converter App Demo]((https://github.com/muks79/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AmanKumarSinhaGitHub/Live-Currency-Convertor.git
+   git clone https://github.com/muks79/Currency-Convertor.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Live-Currency-Convertor
+   cd Currency-Convertor
    ```
 
 3. Install dependencies:
