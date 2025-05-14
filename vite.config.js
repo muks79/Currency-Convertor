@@ -4,5 +4,9 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Live-Currency-Convertor/"
+  base: "/Live-Currency-Convertor/",
+   server: {
+    host: '0.0.0.0',
+    port: parseInt(process.env.PORT) || 5173
+  }
 })
